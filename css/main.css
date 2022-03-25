@@ -1,0 +1,12 @@
+/* CSS HEX 
+--dark-purple: #19142eff;
+--copper: #a87745ff;
+--black-chocolate: #221d1aff;
+--copper-red: #b86a51ff;
+--black-chocolate-2: #291f14ff;*/
+
+body {
+    background-color: #a87745ff;
+    font-family: 'Cormorant Garamond', serif;
+    color: #19142eff;  
+    }
